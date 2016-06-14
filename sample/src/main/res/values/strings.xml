@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WrappingViewPager sample</string>
+
+    <string name="tab_foo">Foo</string>
+    <string name="tab_foo_content">
+        Sed sagittis nulla sit amet urna mollis auctor. Nulla et neque in tellus cursus fringilla id ac massa. Nullam ac mauris ac dolor pellentesque molestie. Cras congue euismod lacus non consequat. Vivamus hendrerit sapien nunc, sit amet eleifend ligula malesuada id. Vivamus nulla orci, auctor eu sollicitudin non, elementum vitae eros. In gravida tempus velit. Vivamus rutrum elit vitae ipsum aliquam fermentum. Sed tempor, dui sed iaculis molestie, dui magna aliquet leo, eget commodo urna massa in nisl. Suspendisse iaculis nulla in ligula accumsan facilisis. Proin sit amet nulla eget lectus rutrum imperdiet. Cras cursus nisi mi, sit amet euismod nulla auctor vitae. Cras vel purus sem. Vivamus ipsum dui, euismod a vehicula in, aliquam in elit.
+        \n
+        Vestibulum vel risus nunc. Mauris sed nunc et mi tincidunt rhoncus sit amet sit amet libero. Vestibulum ut tempus orci. Duis magna metus, porta eget orci a, facilisis sollicitudin nunc. Aliquam magna nunc, congue nec condimentum vitae, facilisis a dolor. Nunc mi lorem, mollis nec est non, vestibulum rhoncus odio. Vestibulum id ipsum augue. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce varius sem ut eleifend auctor. Maecenas ante odio, vestibulum ac libero et, cursus varius quam. Praesent rutrum sed tellus at elementum. Aliquam ut iaculis massa.
+    </string>
+
+    <string name="tab_foobar">FooBar</string>
+    <string name="tab_foobar_content">I\'m shorter than the rest - watch out.</string>
+
+    <string name="tab_bar">Bar</string>
+    <string name="tab_bar_content">
+        Ut id tincidunt eros. Maecenas rhoncus, metus sollicitudin hendrerit aliquet, sem mauris fringilla ipsum, porta tempus nisi tellus a ex. Nam eget auctor tortor, ac hendrerit augue. Donec eleifend, augue a convallis iaculis, odio nisi aliquet nibh, sed eleifend nulla est in sem. Vivamus consectetur, urna non consectetur iaculis, quam ex vestibulum quam, commodo venenatis ex mi tristique libero. Fusce vulputate mollis hendrerit. Cras gravida nibh libero, non dignissim massa faucibus at. Aenean non erat nibh. Sed risus magna, faucibus in mauris ut, sagittis vehicula libero.
+    </string>
+
+    <string name="tab_wtf">Wtf?</string>
+
+    <string name="about">This is a very basic sample. Isn\'t it funny how it moves around?</string>
+</resources>
