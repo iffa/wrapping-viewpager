@@ -43,10 +43,10 @@ Integrating the library takes less than five minutes: below are the basic steps 
           }
       }
       ```
- 3. *(optional)* Set the animation duration and interpolator to your liking with `WrappingViewPager#setAnimationDuration(long)` (default 100ms) and `WrappingViewPager#setAnimationInterpolator(Interpolator)`.
- 
- 
- 4. **Enjoy!**
+
+3. *(optional)* Set the animation duration and interpolator to your liking with `WrappingViewPager#setAnimationDuration(long)` (default 100ms) and `WrappingViewPager#setAnimationInterpolator(Interpolator)`.
+  
+4. **Enjoy!**
 
 For a working demo see the [sample][1] module.
 
