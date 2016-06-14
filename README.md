@@ -67,4 +67,4 @@ For a working demo see the [sample][1] module.
     limitations under the License.
 
 
-[1]: #
+[1]: https://github.com/iffa/wrapping-viewpager/tree/master/sample
