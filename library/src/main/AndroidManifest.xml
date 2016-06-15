@@ -1,5 +1,1 @@
-<manifest package="xyz.santeri.wvp">
-
-    <application />
-
-</manifest>
+<manifest package="xyz.santeri.wvp" />
