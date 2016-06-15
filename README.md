@@ -1,8 +1,28 @@
 # WrappingViewPager
+[![jitpack.io][2]][3]
+[![Apache License 2.0][4][5]
 
 ViewPager replacement with dynamic height support and smooth animations for the few edge cases where a standard ViewPager doesn't fulfill your needs.
 
 ![Sample](https://thumbs.gfycat.com/RealisticBlissfulAdamsstaghornedbeetle-size_restricted.gif) ![Sample 2](https://thumbs.gfycat.com/DeficientBoilingChuckwalla-size_restricted.gif)
+
+## Install
+
+The library is available on [**jitpack.io**][3].
+
+**Gradle dependency:**
+```gradle
+allprojects {
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+```gradle
+dependencies {
+	compile 'com.github.iffa:wrapping-viewpager:1.0.1'
+}
+```
 
 ## Quick start
 
@@ -68,3 +88,7 @@ For a working demo see the [sample][1] module.
 
 
 [1]: https://github.com/iffa/wrapping-viewpager/tree/master/sample
+[2]: https://jitpack.io/v/iffa/wrapping-viewpager.svg
+[3]: https://jitpack.io/#iffa/wrapping-viewpager
+[4]: https://img.shields.io/badge/license-Apache%202-blue.svg
+[5]: https://raw.githubusercontent.com/iffa/wrapping-viewpager/master/LICENSE
