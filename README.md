@@ -1,6 +1,6 @@
 # WrappingViewPager
 [![jitpack.io][2]][3]
-[![Apache License 2.0][4][5]
+[![Apache License 2.0][4]][5]
 
 ViewPager replacement with dynamic height support and smooth animations for the few edge cases where a standard ViewPager doesn't fulfill your needs.
 
