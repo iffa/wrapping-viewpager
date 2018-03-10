@@ -4,6 +4,8 @@
 
 ViewPager replacement with dynamic height support and smooth animations for the few edge cases where a standard ViewPager doesn't fulfill your needs.
 
+**This project is inactive.**
+
 ![Sample](https://thumbs.gfycat.com/RealisticBlissfulAdamsstaghornedbeetle-size_restricted.gif) ![Sample 2](https://thumbs.gfycat.com/DeficientBoilingChuckwalla-size_restricted.gif)
 
 ## Install
