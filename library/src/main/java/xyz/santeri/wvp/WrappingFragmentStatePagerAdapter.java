@@ -35,13 +35,13 @@ public abstract class WrappingFragmentStatePagerAdapter extends FragmentStatePag
             throw new UnsupportedOperationException("ViewPager is not a WrappingViewPager");
         }
 
-        if (position != mCurrentPosition) {
-            Fragment fragment = (Fragment) object;
-            WrappingViewPager pager = (WrappingViewPager) container;
-            if (fragment != null && fragment.getView() != null) {
+        Fragment fragment = (Fragment) object;
+        WrappingViewPager pager = (WrappingViewPager) container;
+        if (fragment != null && fragment.getView() != null) {
+            if (position != mCurrentPosition) {
                 mCurrentPosition = position;
-                pager.onPageChanged(fragment.getView());
             }
+            pager.onPageChanged(fragment.getView());
         }
     }
 }
